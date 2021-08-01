@@ -1,7 +1,7 @@
 # postgreSQL + Node.js (CRUD app)
 1400.Mordad.10
 
-* Related Article: [juniorfrontend.ir/sequelize]()
+* Related Article: [juniorfrontend.ir](https://juniorfrontend.ir/sequelize)
 * Screen Record: [Screen Record](https://archive.org/download/postgres/postgres.mp4)
 
 ## Used Tech 
